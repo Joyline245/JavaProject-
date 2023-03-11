@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Joyline
+ *
+ */
+module CoreJavaProject {
+}
